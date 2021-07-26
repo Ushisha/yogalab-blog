@@ -1,12 +1,12 @@
-import Layout from "../../../components/Layout";
-import Post from "../../../components/Post";
-import Pagination from "../../../components/Pagination";
+import Layout from "@/components/Layout";
+import Post from "@/components/Post";
+import Pagination from "@/components/Pagination";
 import fs from "fs";
 import path from "path";
 import Link from "next/link";
 import matter from "gray-matter";
-import { sortByDate } from "../../../utils";
-import { POSTS_PER_PAGE } from "../../../config";
+import { sortByDate } from "@/utils/index";
+import { POSTS_PER_PAGE } from "@/config/index";
 
 export default function BlogPage({ posts, numPages, currentPage }) {
   console.log(posts);
