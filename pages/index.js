@@ -10,7 +10,7 @@ export default function HomePage({ posts }) {
   console.log(posts);
   return (
     <Layout>
-      <h1 className="text-5xl border-b-4 p-5 font-bold">Latest Posts</h1>
+      <h1 className="text-4xl border-b-4 p-5 font-bold">Latest Posts</h1>
       <div className="grid md:grid-cols-2 lg:grid-cols-3">
         {posts.map((post, index) => (
           <Post key={index} post={post} />

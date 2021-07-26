@@ -1,7 +1,7 @@
 ---
 title: "How to calm your mind"
 date: "June 10, 2021"
-excerpt: "Make yourself a walking church, temple, synagogue or mosque. Make yourself a place of peace, a fountain of compassion. It’s easy to hate, mistrust, or argue. Do the more difficult thing, and love. Love even those who cause you pain. In many cases, they need it more. "
+excerpt: "Make yourself a walking church, temple, synagogue or mosque. Make yourself a place of peace, a fountain of compassion. It’s easy to hate, mistrust, or argue. Do the more difficult thing, and love."
 cover_image: "/images/posts/img2.jpg"
 category: "Mindfulness"
 author: "Jane Brown"

@@ -1,6 +1,6 @@
 ---
 title: "Asana Lab: Lotus pose"
-date: "MAy 10, 2021"
+date: "May 10, 2021"
 excerpt: "The lotus flower has been associated with beauty, purity, enlightenment, abundance and rebirth since ancient times. "
 cover_image: "/images/posts/img8.jpg"
 category: "Asana"
