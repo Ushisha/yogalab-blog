@@ -3,17 +3,27 @@ import Post from "@/components/Post";
 import fs from "fs";
 import path from "path";
 import Link from "next/link";
+import { getPosts } from "@/lib/posts";
 import matter from "gray-matter";
-import { sortByDate } from "@/utils/index";
+import CategoryList from "@/components/CategoryList";
 
-export default function CategoryBlogPage({ posts }) {
+export default function CategoryBlogPage({ posts, categoryName, categories }) {
   return (
     <Layout>
-      <h1 className="text-4xl border-b-4 p-5 font-bold">Latest Posts</h1>
-      <div className="grid md:grid-cols-2 lg:grid-cols-3">
-        {posts.map((post, index) => (
-          <Post key={index} post={post} />
-        ))}
+      <div className="flex justufy-between">
+        <div className="w-3/4 mr-10">
+          <h1 className="text-5xl border-b-4 p-5 font-bold">
+            Posts in {categoryName}
+          </h1>
+          <div className="grid md:grid-cols-2 lg:grid-cols-3">
+            {posts.map((post, index) => (
+              <Post key={index} post={post} />
+            ))}
+          </div>
+        </div>
+        <div className="w-1/4">
+          <CategoryList categories={categories} />
+        </div>
       </div>
     </Layout>
   );
@@ -42,22 +52,14 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params: { category_name } }) {
-  console.log(category_name);
-  const files = fs.readdirSync(path.join("posts"));
-  const posts = files.map((filename) => {
-    const slug = filename.replace(".md", "");
+  // const files = fs.readdirSync(path.join("posts"));
 
-    const markdownWithMeta = fs.readFileSync(
-      path.join("posts", filename),
-      "utf-8"
-    );
+  const posts = getPosts();
 
-    const { data: frontmatter } = matter(markdownWithMeta);
-    return {
-      slug,
-      frontmatter,
-    };
-  });
+  //Get categories for sidebar
+  const categories = posts.map((post) => post.frontmatter.category);
+
+  const uniqueCategories = [...new Set(categories)];
 
   //filter posts by category
   const categoryPosts = posts.filter(
@@ -66,7 +68,9 @@ export async function getStaticProps({ params: { category_name } }) {
 
   return {
     props: {
-      posts: categoryPosts.sort(sortByDate).slice(0, 6),
+      posts: categoryPosts,
+      categoryName: category_name,
+      categories: uniqueCategories,
     },
   };
 }
