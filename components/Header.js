@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+// import Search from "./Search";
 export default function Header() {
   return (
     <header className="font-sans ... border-b-2">
@@ -10,18 +11,20 @@ export default function Header() {
             <span className="ml-3 text-xl">YogaLab</span>
           </a>
         </Link>
+
         <nav className="flex flex-wrap md:w-4/5 items-center justify-end text-base md:ml-auto">
           <Link href="/blog">
-            <a className="mx-5 cursor-pointer uppercase hover:text-indigo-300">
+            <a className="mx-5 text-gray-500 cursor-pointer uppercase hover:text-indigo-300">
               Blog
             </a>
           </Link>
           <Link href="/about">
-            <a className="mx-5 cursor-pointer uppercase hover:text-indigo-300">
+            <a className="mx-5 text-gray-500 cursor-pointer uppercase hover:text-indigo-300">
               About
             </a>
           </Link>
         </nav>
+        {/* <Search className="flex flex-end md:w-2/5 flex-grow" /> */}
       </div>
     </header>
   );

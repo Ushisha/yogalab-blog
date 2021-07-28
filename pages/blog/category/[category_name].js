@@ -10,9 +10,9 @@ import CategoryList from "@/components/CategoryList";
 export default function CategoryBlogPage({ posts, categoryName, categories }) {
   return (
     <Layout>
-      <div className="flex justufy-between">
-        <div className="w-3/4 mr-10">
-          <h1 className="text-5xl border-b-4 p-5 font-bold">
+      <div className="flex flex-col-reverse  md:flex-row md:justify-between">
+        <div className="w-auto md:w-3/4 mx-5 md:mr-10">
+          <h1 className="text-center md:text-left text-4xl border-b-4 p-5 font-bold">
             Posts in {categoryName}
           </h1>
           <div className="grid md:grid-cols-2 lg:grid-cols-3">
@@ -21,7 +21,7 @@ export default function CategoryBlogPage({ posts, categoryName, categories }) {
             ))}
           </div>
         </div>
-        <div className="w-1/4">
+        <div className="w-auto md:w-1/4">
           <CategoryList categories={categories} />
         </div>
       </div>

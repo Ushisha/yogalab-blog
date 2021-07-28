@@ -16,10 +16,12 @@ export default function PostPage({
 }) {
   return (
     <Layout title={title}>
-      <Link href="/blog">Go back</Link>
+      <Link href="/blog">
+        <a className="text-gray-500 ml-5 hover:text-yellow-400">Go back</a>
+      </Link>
       <div className="w-full px-10 py-6 bg-white rounded-lg shadow-md mt-6">
         <div className="flex justify-between items-center mt-4">
-          <h1 className="text-5xl mb-7">{title}</h1>
+          <h1 className="text-3xl md:text-5xl mb-7">{title}</h1>
           <CategoryLabel>{category}</CategoryLabel>
         </div>
         <img src={cover_image} alt="cover image" className="w-full rounded" />
