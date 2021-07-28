@@ -4,7 +4,6 @@ import Link from "next/link";
 import { getPosts } from "@/lib/posts";
 
 export default function HomePage({ posts }) {
-  console.log(posts);
   return (
     <Layout>
       <h1 className="text-3xl md:text-4xl text-center md:text-left border-b-4 p-5 font-bold">

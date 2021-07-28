@@ -2,10 +2,7 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import marked from "marked";
-
 import Link from "next/link";
-import Image from "next/image";
-
 import Layout from "@/components/Layout";
 import CategoryLabel from "@/components/CategoryLabel";
 

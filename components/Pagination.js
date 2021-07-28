@@ -1,9 +1,11 @@
 import Link from "next/link";
+
 export default function Pagination({ currentPage, numPages }) {
   const isFirst = currentPage === 1;
   const isLast = currentPage === numPages;
   const prevPage = `/blog/page/${currentPage - 1}`;
   const nextPage = `/blog/page/${currentPage + 1}`;
+
   if (numPages === 1) return <></>;
 
   return (
@@ -17,7 +19,7 @@ export default function Pagination({ currentPage, numPages }) {
           </Link>
         )}
         {Array.from({ length: numPages }, (_, i) => (
-          <Link href={`/blog/page/${i + 1}`}>
+          <Link href={`/blog/page/${i + 1}`} key={i}>
             <li className="relative block py-2 px-3 leading-tight bg-white border border-gray-300 text-gray-800 mr-1 hover:b-gray-200 cursor-pointer">
               {i + 1}
             </li>

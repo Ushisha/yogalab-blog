@@ -3,12 +3,11 @@ import Post from "@/components/Post";
 import Pagination from "@/components/Pagination";
 import fs from "fs";
 import path from "path";
-import matter from "gray-matter";
+
 import { POSTS_PER_PAGE } from "@/config/index";
 import { getPosts } from "@/lib/posts";
 import CategoryList from "@/components/CategoryList";
 export default function BlogPage({ posts, numPages, currentPage, categories }) {
-  console.log(posts);
   return (
     <Layout>
       <div className="flex flex-col-reverse  md:flex-row md:justify-between">

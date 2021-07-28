@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-// import Search from "./Search";
+
 export default function Header() {
   return (
     <header className="font-sans ... border-b-2">
@@ -24,7 +24,6 @@ export default function Header() {
             </a>
           </Link>
         </nav>
-        {/* <Search className="flex flex-end md:w-2/5 flex-grow" /> */}
       </div>
     </header>
   );

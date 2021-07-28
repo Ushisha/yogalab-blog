@@ -1,4 +1,5 @@
 import Link from "next/link";
+
 export default function CategoryList({ categories }) {
   return (
     <div className="w-full p-1 md:p-5 bg-white rounded-lg shadow-none md:shadow-md mt-0 md:mt-6">

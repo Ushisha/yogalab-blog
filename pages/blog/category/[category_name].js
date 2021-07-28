@@ -2,7 +2,6 @@ import Layout from "@/components/Layout";
 import Post from "@/components/Post";
 import fs from "fs";
 import path from "path";
-import Link from "next/link";
 import { getPosts } from "@/lib/posts";
 import matter from "gray-matter";
 import CategoryList from "@/components/CategoryList";
@@ -31,6 +30,7 @@ export default function CategoryBlogPage({ posts, categoryName, categories }) {
 
 export async function getStaticPaths() {
   const files = fs.readdirSync(path.join("posts"));
+
   const categories = files.map((filename) => {
     const markdownWithMeta = fs.readFileSync(
       path.join("posts", filename),
@@ -45,6 +45,7 @@ export async function getStaticPaths() {
   const paths = categories.map((category) => ({
     params: { category_name: category },
   }));
+
   return {
     paths,
     fallback: false,
@@ -52,15 +53,11 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params: { category_name } }) {
-  // const files = fs.readdirSync(path.join("posts"));
-
   const posts = getPosts();
-
   //Get categories for sidebar
   const categories = posts.map((post) => post.frontmatter.category);
 
   const uniqueCategories = [...new Set(categories)];
-
   //filter posts by category
   const categoryPosts = posts.filter(
     (post) => post.frontmatter.category.toLowerCase() === category_name
