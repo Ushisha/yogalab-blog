@@ -15,7 +15,7 @@ export default function HomePage({ posts }) {
         ))}
       </div>
       <Link href="/blog">
-        <a className="block text-center border border-gray-300 text-gray-800 rounded-md py-4 my-5 transition duration-500 ease select-none hover:text-white hover:bg-yellow-300 hover:border-opacity-0 focus:outline-none focus:shadow-outline w-full">
+        <a className="block text-center border border-gray-300 text-gray-400 rounded-md py-4 my-5 transition duration-500 ease select-none hover:text-yellow-500 hover:border-yellow-500 focus:outline-none focus:shadow-outline w-full">
           All Posts
         </a>
       </Link>

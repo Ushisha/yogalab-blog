@@ -4,7 +4,7 @@ This is a blog built with Next.js and Markdown
 
 ### Screenshot
 
-![](public/images/screenshot.png)
+![](public/images/screencapture.png)
 
 ### Links
 
