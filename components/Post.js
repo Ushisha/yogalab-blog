@@ -21,7 +21,7 @@ export default function Post({ post, compact }) {
       </div>
       <div className="mt-2">
         <Link href={`/blog/${post.slug}`}>
-          <a className="text-wxl text gray-700 font-extrabold hover:underline">
+          <a className="text-xl text gray-700 font-extrabold hover:underline">
             {post.frontmatter.title}
           </a>
         </Link>
