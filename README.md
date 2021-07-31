@@ -8,7 +8,7 @@ This is a blog built with Next.js and Markdown
 
 ### Links
 
-- Live Site URL: [live site URL here](https://yogalab-blog.vercel.app/)
+- Live Site URL: [https://yogalab-blog-qdeusqkux-ushisha.vercel.app/](https://yogalab-blog.vercel.app/)
 
 ### Built with
 
