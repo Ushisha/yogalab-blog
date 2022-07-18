@@ -1,6 +1,6 @@
 # YogaLab Blog
 
-This is a blog built with Next.js and Markdown
+This is a blog site built with Next.js useing Markdown to easily format postings vertually.
 
 ### Screenshot
 
@@ -15,5 +15,6 @@ This is a blog built with Next.js and Markdown
 - [React](https://reactjs.org/) -Javascript library
 - [Next.js](https://nextjs.org/) - React framework
 - [tailwindcss](https://tailwindcss.com/) - For styles
+- [Markdown](https://www.markdownguide.org/) - markup language
 
 ## Acknowledgments
