@@ -4,12 +4,12 @@ This blog is built with Next.js for better server-side rendering and optimal SEO
 
 ### Functionalities
 
--Search and category functionalities for easy access to suitable topics.
--Markdown makes it much easier to express formatting and focus on writing.
--Easy upload by just committing to Github.
--Statically rendered pages fast for user experience.
--The Layout component passes the meta data needed to be put in the head of each page for SEO or accessibility purposes.
--Responsive for all devices.
+- Search and category functionalities for easy access to suitable topics.
+- Markdown makes it much easier to express formatting and focus on writing.
+- Easy upload by just committing to Github.
+- Statically rendered pages fast for user experience.
+- The Layout component passes the meta data needed to be put in the head of each page for SEO or accessibility purposes.
+- Responsive for all devices.
 
 ### Screenshot
 
