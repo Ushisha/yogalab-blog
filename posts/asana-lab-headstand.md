@@ -1,11 +1,11 @@
 ---
-title: "Asana Lab: Headstand"
-date: "July 28, 2021"
-excerpt: "Sirsasana, or Headstand, is known as the “King of Postures” and has miraculous benefits."
-cover_image: "/images/posts/img5.jpg"
-category: "Asana"
-author: "Jane Brown"
-author_image: "https://randomuser.me/api/portraits/women/11.jpg"
+title: 'Asana Lab: Headstand'
+date: '19 February, 2022'
+excerpt: 'Sirsasana, or Headstand, is known as the “King of Postures” and has miraculous benefits.'
+cover_image: '/images/posts/img5.jpg'
+category: 'Asana'
+author: 'Jane Brown'
+author_image: 'https://randomuser.me/api/portraits/women/11.jpg'
 ---
 
 <!-- Markdow generator - https://jaspervdj.be/lorem-markdownum/ -->

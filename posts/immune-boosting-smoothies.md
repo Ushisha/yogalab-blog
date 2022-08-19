@@ -1,11 +1,11 @@
 ---
-title: "Immune-boosting Smoothies for Summer"
-date: "June 7, 2021"
-excerpt: "It’s so, so important that we keep our bodies in good shape. Among many other things, that means getting a wide range of vitamins and minerals."
-cover_image: "/images/posts/img4.jpg"
-category: "Recipe"
-author: "Sara Johnson"
-author_image: "https://randomuser.me/api/portraits/women/12.jpg"
+title: 'Immune-boosting Smoothies for Summer'
+date: '7 July, 2022'
+excerpt: 'It’s so, so important that we keep our bodies in good shape. Among many other things, that means getting a wide range of vitamins and minerals.'
+cover_image: '/images/posts/img4.jpg'
+category: 'Recipe'
+author: 'Sara Johnson'
+author_image: 'https://randomuser.me/api/portraits/women/12.jpg'
 ---
 
 <!-- Markdow generator - https://jaspervdj.be/lorem-markdownum/ -->

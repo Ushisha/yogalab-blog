@@ -1,14 +1,14 @@
 ---
-title: "Asana Lab: King Pigeon pose"
-date: "June 17, 2021"
-excerpt: "King Pigeon pose is quite an advanced posture that improves both strength and flexibility in nearly the entire body."
-cover_image: "/images/posts/img3.jpg"
-category: "Asana"
-author: "Samantha Smith"
-author_image: "https://randomuser.me/api/portraits/women/14.jpg"
+title: 'Asana Lab: King Pigeon pose'
+date: '25 August, 2022'
+excerpt: 'King Pigeon pose is quite an advanced posture that improves both strength and flexibility in nearly the entire body.'
+cover_image: '/images/posts/img3.jpg'
+category: 'Asana'
+author: 'Samantha Smith'
+author_image: 'https://randomuser.me/api/portraits/women/14.jpg'
 ---
 
-<!-- Markdow generator - https://jaspervdj.be/lorem-markdownum/ -->
+<!-- Markdown generator - https://jaspervdj.be/lorem-markdownum/ -->
 
 Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
 haec praepes [partes epulae](http://cui.com/), in egisse de. Caecisque ter

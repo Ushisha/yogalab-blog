@@ -1,11 +1,11 @@
 ---
-title: "How to calm your mind"
-date: "June 10, 2021"
-excerpt: "Make yourself a walking church, temple, synagogue or mosque. Make yourself a place of peace, a fountain of compassion. It’s easy to hate, mistrust, or argue. Do the more difficult thing, and love."
-cover_image: "/images/posts/img2.jpg"
-category: "Mindfulness"
-author: "Jane Brown"
-author_image: "https://randomuser.me/api/portraits/women/11.jpg"
+title: 'How to calm your mind'
+date: '10 June, 2022'
+excerpt: 'Make yourself a walking church, temple, synagogue or mosque. Make yourself a place of peace, a fountain of compassion. It’s easy to hate, mistrust, or argue. Do the more difficult thing, and love.'
+cover_image: '/images/posts/img2.jpg'
+category: 'Mindfulness'
+author: 'Jane Brown'
+author_image: 'https://randomuser.me/api/portraits/women/11.jpg'
 ---
 
 <!-- Markdow generator - https://jaspervdj.be/lorem-markdownum/ -->

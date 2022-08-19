@@ -1,11 +1,11 @@
 ---
-title: "Asana Lab: Lotus pose"
-date: "May 10, 2021"
-excerpt: "The lotus flower has been associated with beauty, purity, enlightenment, abundance and rebirth since ancient times. "
-cover_image: "/images/posts/img8.jpg"
-category: "Asana"
-author: "Matt Davies"
-author_image: "https://randomuser.me/api/portraits/men/11.jpg"
+title: 'Asana Lab: Lotus pose'
+date: '10 May, 2022'
+excerpt: 'The lotus flower has been associated with beauty, purity, enlightenment, abundance and rebirth since ancient times. '
+cover_image: '/images/posts/img8.jpg'
+category: 'Asana'
+author: 'Matt Davies'
+author_image: 'https://randomuser.me/api/portraits/men/11.jpg'
 ---
 
 <!-- Markdow generator - https://jaspervdj.be/lorem-markdownum/ -->

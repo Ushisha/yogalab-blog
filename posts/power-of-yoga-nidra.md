@@ -1,11 +1,11 @@
 ---
-title: "Power of Yoga Nidra"
-date: "May 7, 2021"
-excerpt: "Seeking more energy, focus, and creativity? Charge up with a form of guided relaxation called yoga nidra."
-cover_image: "/images/posts/img7.jpg"
-category: "Mindfulness"
-author: "Mike Richards"
-author_image: "https://randomuser.me/api/portraits/men/18.jpg"
+title: 'Power of Yoga Nidra'
+date: '15 January, 2022'
+excerpt: 'Seeking more energy, focus, and creativity? Charge up with a form of guided relaxation called yoga nidra.'
+cover_image: '/images/posts/img7.jpg'
+category: 'Mindfulness'
+author: 'Mike Richards'
+author_image: 'https://randomuser.me/api/portraits/men/18.jpg'
 ---
 
 <!-- Markdow generator - https://jaspervdj.be/lorem-markdownum/ -->

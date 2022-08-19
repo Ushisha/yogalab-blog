@@ -1,6 +1,6 @@
 ---
 title: "Vagan Lab: Easy roasted cauliflower"
-date: "July 4, 2021"
+date: "4 April, 2022"
 excerpt: "This quick and healthy recipe for roasted cauliflower with garlic and bay seasoning is perfect for salads and side dishes.
 
 "
