@@ -1,6 +1,6 @@
 # YogaLab Blog
 
-This blog is built with Next.js for better server-side rendering and optimal SEO. Also, using Markdown to format postings quick and easy.
+This blog is built with Next.js for better better rendering performance and optimal SEO. Also, using Markdown to format postings quick and easy.
 
 ### Functionalities
 
