@@ -17,7 +17,7 @@ This blog is built with Next.js for better better rendering performance and opti
 
 ### Links
 
-- Live Site URL: [https://yogalab-blog-qdeusqkux-ushisha.vercel.app/](https://yogalab-blog.vercel.app/)
+- [Live Site URL](https://yogalab-blog.vercel.app/)
 
 ### Built with
 
