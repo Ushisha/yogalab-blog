@@ -12,16 +12,24 @@ export default function AboutPage() {
           How it started...
         </h3>
         <p className="text-center md:text-left mb-3">
-          Ikuko started her yoga journey back in 2012 when she attended her
-          first yoga class at Indaba yoga studio in London. She Since then, she
-          has been a regular yoga practitioner, and a primary teacher has been
-          Dharma Mittra. When she went to take his class in NYC back in 2018.
-          She has also practised a vegetarian and yogic lifestyle. This blog is
-          about her findings and passion for yoga she wants to share with the
-          world. <br />
-          This is a blog built with Next.js and Markdown.
+          Ikuko started Yoga in 2013 at Indaba studios in London, practising
+          Vinyasa Yoga, Ashtanga Yoga and Iyengar Yoga under the guidance of
+          different yoga instructors. In 2014, she went to New York to accompany
+          her friend's teacher training trip and visited Dharma Yoga New York
+          Center. She took her first class with Sri Dharma Mittra, and she
+          started her new life the same day. She found her Guru, found Yoga.
+          <br />
+          She is passionate about the philosophy of Yoga and the yogic way of
+          life. She loves sharing the central teachings of the philosophy and
+          wisdom she has learnt. She is reminded every day of the power of Yoga:
+          on her body, as Yoga has helped her remain strong and build more
+          strength, and on her well-being and her mind, as Yoga gives us the
+          tools to find the peace we need when we are so busy off the mat.
+          <br />
+          This blog is about her findings and passion for Yoga she wants to
+          share with the world. <br />
         </p>
-        <p className="text-center md:text-left font-bold">Version 1.0.0</p>
+        <p className="text-center md:text-left font-bold">Version 1.1.0</p>
       </div>
     </Layout>
   )
