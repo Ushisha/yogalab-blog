@@ -10,48 +10,34 @@ author_image: 'https://randomuser.me/api/portraits/women/14.jpg'
 
 <!-- Markdown generator - https://jaspervdj.be/lorem-markdownum/ -->
 
-Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
-haec praepes [partes epulae](http://cui.com/), in egisse de. Caecisque ter
-manus. Munere in exhalat, ferre sed [habe quaeque saepe](http://ne.org/fretum)
-verba caput ferarum _nubila_? Patriam Cyparisse tamen, **saxum** fide postponere
-pavida ne omnes etiam, atque. Sonuit omina sed sine haerebat illic fit a mora
-in.
+Raja Kapotasana, or King Pigeon pose, is one of my favourite poses. I love how it opens my hips, and opening my chest helps in deeper breathing, increases energy, and helps calm my mind.
 
-1. Serrae enim Etruscam aquis
-2. Et premis et flumine frontem minatur oppressos
-3. Inquam rector Icarus possum vim tumulo propiusque
-4. Vulnus se Latreus
-5. Aptumque bis
+King Pigeon is a combination of two pose types – it’s both a hip opener and a back bend. Pigeon is a beautiful way to relax and ground your body.
 
-## Turpius Aegides membris colat volentes fallere
+## Benefits
 
-Ille fida formosus, et addunt viscera perdidit ad pondere quia tellus
-consequitur et quoque scinditque in. Ratis laborum instabat quaedam partem
-Phoebus, manus _partibus poenas_. Sola armos adhuc; chaos agit ora manifesta
-procul fugitque corpora iugales!
+- Opens hips, shoulders and chest
 
-## O contra diu
+- increases flexibility in hips, knees and ankles
 
-Descendit _auras cum misi_ contactu tenax lacus, **quaerensque invitum
-premuntur** patria. Puris ille pictis spiritus placent vestigia et noctis
-sceleratos laudis egere retroque. Patrem contenta magni margine satis inprudens
-nymphae invito verba saepe: genus sed numinis pugnat meum iterumque attonitas
-rursus utve. Constituit praestet liceat opprobria Medusae huius, excutiuntque
-nam nil, pariter.
+- grounding, calming, and rejuvenating
 
-Coma **laudes manet** ausus hortaturque matrisque Veneris proximus tu iamque
-aptius claudit. Tmolus tetigere iussos animumque quid poplite Hippotaden? Quod
-sibi Spartana sidera, lupum Nereusque quoque ramum, vertuntur Peleus Amuli
-oscula: tamen. Surgere Epidaurius movit crede soceri Euboicam quoque.
+- stimulates the abdominal organs
 
-Unde stabant, acuta, percussit denique; hoc illic et herbis minimas parvum? Quid
-_gemino profectus et_ dici postquam tot; aquarum quod relanguit est si
-quodcumque. Ossaque protinus, quod somno est, repetit, hoc passu est. Qui devia;
-respice humum vobis oscula, in Lotis nymphae.
+## How To Get There:
 
-Dolet certamina velle dexteriore mutatus saepe, tellure ubi unguibus, gestu.
-Illis cuius finem Sirenes adsueta stridore, pictas quo edidit, nec utque et
-capillos ego rapi Bootes, sculpsit. Protinus sibi denique sibi primum Acheloides
-ante exspectant gaudeat Calydonius cernit, duxit pariterque dolet epulis? Nostri
-visae nisi aeripedes stant quem saepibus cannis protectus candens praestet:
-porrigar **patriam** Alcmene: attonitas.
+**Step 1** - From downward facing dog. Step one leg in front of you and bend the knee, sliding the foot towards the wrist of the hand on the opposite side and placing the knee on the ground. Extend the other leg back behind you.</li>
+
+**Step 2** - Keep your front shin parallel to your hips, or bring the foot close to your groin. Place the palms on the waist, push forward, lift the shoulders, and drop the head back. Hold for a few breaths.</li>
+
+**Step 3** - Bring the hands to the floor and slowly bend the back knee, pointing the foot towards the sky. Keep the front leg active and firmly pressed into the ground.</li>
+
+**Step 4** - Now grab the foot with the same-sided hand, and pull it towards your shoulder. Turn your torso back to the front of the mat, and carefully raise the elbow so that the foot is centred behind the head.
+
+**Step 5** - Take a few breaths here, then reach the other arm over the head to grab the foot.
+
+**Step 6** - Open your chest and belly, and look up. Bring the foot to the back of the head and rest the head against the foot.
+
+**Step 7** - Hold the pose for 10-15 seconds and slowly release it. Then move to the other leg and repeat the steps on the other side.
+
+Pigeon pose is an excellent accompaniment to more active pursuits like hiking, cycling, and running because it targets the muscles these activities use – the abductors, piriformis, gluteus medius and minimus, and iliopsoas (hip flexors). It’s also an excellent pose to incorporate into your asana practice after standing and balancing poses.
