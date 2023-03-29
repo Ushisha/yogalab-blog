@@ -40,4 +40,4 @@ King Pigeon is a combination of two pose types – it’s both a hip opener and 
 
 **Step 7** - Hold the pose for 10-15 seconds and slowly release it. Then move to the other leg and repeat the steps on the other side.
 
-Pigeon pose is an excellent accompaniment to more active pursuits like hiking, cycling, and running because it targets the muscles these activities use – the abductors, piriformis, gluteus medius and minimus, and iliopsoas (hip flexors). It’s also an excellent pose to incorporate into your asana practice after standing and balancing poses.
+Kig Pigeon pose is an excellent accompaniment to more active pursuits like hiking, cycling, and running because it targets the muscles these activities use – the abductors, piriformis, gluteus medius and minimus, and iliopsoas (hip flexors). It’s also an excellent pose to incorporate into your asana practice after standing and balancing poses.
