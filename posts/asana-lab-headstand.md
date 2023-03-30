@@ -8,7 +8,10 @@ author: 'Jane Brown'
 author_image: 'https://randomuser.me/api/portraits/women/11.jpg'
 ---
 
-Sirasana, headstand pose, is a symmetrical inversion usually performed at the end of the practice. It is the king of the poses and is said to bring the most benefits.
+Sirsasana or headstand is one of my favorite postures, and has been for many years. There was a time when I would struggle to stay more than a minuite. To this day, I practice headstand for at least 10 minutes, 6 days a week.
+<br/>
+<br/>
+It is the king of the poses and is said to bring the most benefits.
 
 ## Benefits
 
@@ -27,3 +30,6 @@ Sirasana, headstand pose, is a symmetrical inversion usually performed at the en
 **Step 3:** Exhale and raise one leg up and then the other. If necessary, bend the knee of the leg on the floor and lightly push off with the foot to hop up. Rotate the upper thighs slightly inwards and press the heels towards the ceiling.
 
 **Step 4:** keep the weight evenly balanced on both forearms. Keep the tailbone lifted and lift the shoulders away from the ears. Once the legs are straight, press up through the balls of the feet. Ideally, hold the pose for three minutes- or longer for more advanced students - but it is vital to building up gradually. Don't strain to hold the pose. Release by bringing one foot down at a time and rest in balasana, child pose for a few breaths.
+<br/>
+<br/>
+This posture may seem like just a fun trick, but it is actually so much more. The health benefits of headstand and its variations are many.
