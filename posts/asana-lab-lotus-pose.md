@@ -8,7 +8,7 @@ author: 'Matt Davies'
 author_image: 'https://randomuser.me/api/portraits/men/11.jpg'
 ---
 
-Lotus poses, Padmasana, is considered by many to be the "classic" yoga pose. Lotus is often used for meditation and pranayama practice.
+Lotus poses, Padmasana, is considered by many to be the "classic" yoga pose. Lotus is often used for meditation and pranayama practice. In addition, it is said to bring more concentration and calmness when you are upside down with a headstand or shoulder stand with your legs in a lotus pose.
 <br/>
 The Sanskrit word for this pose, "Padmasana" (pahd-MAHS-uh-nuh), is named after the lotus flower, or "padma." In the absolute expression, your legs become like the petals of a lotus flower, gently dropping open.
 
