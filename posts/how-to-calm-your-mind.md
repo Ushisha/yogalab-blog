@@ -1,6 +1,6 @@
 ---
 title: 'How to calm your mind'
-date: '10 June, 2022'
+date: '10 October, 2022'
 excerpt: 'Make yourself a walking church, temple, synagogue or mosque. Make yourself a place of peace, a fountain of compassion. It’s easy to hate, mistrust, or argue. Do the more difficult thing, and love.'
 cover_image: '/images/posts/img2.jpg'
 category: 'Mindfulness'

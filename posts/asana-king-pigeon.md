@@ -26,18 +26,18 @@ King Pigeon is a combination of two pose types – it’s both a hip opener and 
 
 ## How To Get There:
 
-**Step 1** - From downward facing dog. Step one leg in front of you and bend the knee, sliding the foot towards the wrist of the hand on the opposite side and placing the knee on the ground. Extend the other leg back behind you.</li>
+**Step 1:** From downward facing dog. Step one leg in front of you and bend the knee, sliding the foot towards the wrist of the hand on the opposite side and placing the knee on the ground. Extend the other leg back behind you.
 
-**Step 2** - Keep your front shin parallel to your hips, or bring the foot close to your groin. Place the palms on the waist, push forward, lift the shoulders, and drop the head back. Hold for a few breaths.</li>
+**Step 2:** Keep your front shin parallel to your hips, or bring the foot close to your groin. Place the palms on the waist, push forward, lift the shoulders, and drop the head back. Hold for a few breaths.
 
-**Step 3** - Bring the hands to the floor and slowly bend the back knee, pointing the foot towards the sky. Keep the front leg active and firmly pressed into the ground.</li>
+**Step 3:** Bring the hands to the floor and slowly bend the back knee, pointing the foot towards the sky. Keep the front leg active and firmly pressed into the ground.</li>
 
-**Step 4** - Now grab the foot with the same-sided hand, and pull it towards your shoulder. Turn your torso back to the front of the mat, and carefully raise the elbow so that the foot is centred behind the head.
+**Step 4:** Now grab the foot with the same-sided hand, and pull it towards your shoulder. Turn your torso back to the front of the mat, and carefully raise the elbow so that the foot is centred behind the head.
 
-**Step 5** - Take a few breaths here, then reach the other arm over the head to grab the foot.
+**Step 5:** Take a few breaths here, then reach the other arm over the head to grab the foot.
 
-**Step 6** - Open your chest and belly, and look up. Bring the foot to the back of the head and rest the head against the foot.
+**Step 6:** Open your chest and belly, and look up. Bring the foot to the back of the head and rest the head against the foot.
 
-**Step 7** - Hold the pose for 10-15 seconds and slowly release it. Then move to the other leg and repeat the steps on the other side.
+**Step 7:** Hold the pose for 10-15 seconds and slowly release it. Then move to the other leg and repeat the steps on the other side.
 
-Kig Pigeon pose is an excellent accompaniment to more active pursuits like hiking, cycling, and running because it targets the muscles these activities use – the abductors, piriformis, gluteus medius and minimus, and iliopsoas (hip flexors). It’s also an excellent pose to incorporate into your asana practice after standing and balancing poses.
+King Pigeon pose is an excellent accompaniment to more active pursuits like hiking, cycling, and running because it targets the muscles these activities use – the abductors, piriformis, gluteus medius and minimus, and iliopsoas (hip flexors). It’s also an excellent pose to incorporate into your asana practice after standing and balancing poses.

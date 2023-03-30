@@ -1,6 +1,6 @@
 ---
 title: 'Asana Lab: Headstand'
-date: '19 February, 2022'
+date: '19 February, 2023'
 excerpt: 'Sirsasana, or Headstand, is known as the “King of Postures” and has miraculous benefits.'
 cover_image: '/images/posts/img5.jpg'
 category: 'Asana'
@@ -8,50 +8,22 @@ author: 'Jane Brown'
 author_image: 'https://randomuser.me/api/portraits/women/11.jpg'
 ---
 
-<!-- Markdow generator - https://jaspervdj.be/lorem-markdownum/ -->
+Sirasana, headstand pose, is a symmetrical inversion usually performed at the end of the practice. It is the king of the poses and is said to bring the most benefits.
 
-Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
-haec praepes [partes epulae](http://cui.com/), in egisse de. Caecisque ter
-manus. Munere in exhalat, ferre sed [habe quaeque saepe](http://ne.org/fretum)
-verba caput ferarum _nubila_? Patriam Cyparisse tamen, **saxum** fide postponere
-pavida ne omnes etiam, atque. Sonuit omina sed sine haerebat illic fit a mora
-in.
+## Benefits
 
-1. Serrae enim Etruscam aquis
-2. Et premis et flumine frontem minatur oppressos
-3. Inquam rector Icarus possum vim tumulo propiusque
-4. Vulnus se Latreus
-5. Aptumque bis
+- Helps relieve stress and mild depression
+- Stimulates the pituitary and pineal glands
+- Strengthens the arms, legs and spine
+- Tones the abdominal organs
+- Brings fresh blood to the lower extremities and brain
 
-## Turpius Aegides membris colat volentes fallere
+## How to Get There:
 
-Ille fida formosus, et addunt viscera perdidit ad pondere quia tellus
-consequitur et quoque scinditque in. Ratis laborum instabat quaedam partem
-Phoebus, manus _partibus poenas_. Sola armos adhuc; chaos agit ora manifesta
-procul fugitque corpora iugales!
+**Step 1:** Kneel on the floor. Bring the forearms to the floor and grab the elbows, ensuring they are shoulder-width apart.
 
-## O contra diu
+**Step 2:** Release the elbows, interlace the fingers and press the forearms on the floor. Bring the crown of the head to the floor. Open the palms, place the back of the head into the open palms, inhale, and lift the knees off the floor. Straighten the legs and walk the feet close to the elbows.
 
-Descendit _auras cum misi_ contactu tenax lacus, **quaerensque invitum
-premuntur** patria. Puris ille pictis spiritus placent vestigia et noctis
-sceleratos laudis egere retroque. Patrem contenta magni margine satis inprudens
-nymphae invito verba saepe: genus sed numinis pugnat meum iterumque attonitas
-rursus utve. Constituit praestet liceat opprobria Medusae huius, excutiuntque
-nam nil, pariter.
+**Step 3:** Exhale and raise one leg up and then the other. If necessary, bend the knee of the leg on the floor and lightly push off with the foot to hop up. Rotate the upper thighs slightly inwards and press the heels towards the ceiling.
 
-Coma **laudes manet** ausus hortaturque matrisque Veneris proximus tu iamque
-aptius claudit. Tmolus tetigere iussos animumque quid poplite Hippotaden? Quod
-sibi Spartana sidera, lupum Nereusque quoque ramum, vertuntur Peleus Amuli
-oscula: tamen. Surgere Epidaurius movit crede soceri Euboicam quoque.
-
-Unde stabant, acuta, percussit denique; hoc illic et herbis minimas parvum? Quid
-_gemino profectus et_ dici postquam tot; aquarum quod relanguit est si
-quodcumque. Ossaque protinus, quod somno est, repetit, hoc passu est. Qui devia;
-respice humum vobis oscula, in Lotis nymphae.
-
-Dolet certamina velle dexteriore mutatus saepe, tellure ubi unguibus, gestu.
-Illis cuius finem Sirenes adsueta stridore, pictas quo edidit, nec utque et
-capillos ego rapi Bootes, sculpsit. Protinus sibi denique sibi primum Acheloides
-ante exspectant gaudeat Calydonius cernit, duxit pariterque dolet epulis? Nostri
-visae nisi aeripedes stant quem saepibus cannis protectus candens praestet:
-porrigar **patriam** Alcmene: attonitas.
+**Step 4:** keep the weight evenly balanced on both forearms. Keep the tailbone lifted and lift the shoulders away from the ears. Once the legs are straight, press up through the balls of the feet. Ideally, hold the pose for three minutes- or longer for more advanced students - but it is vital to building up gradually. Don't strain to hold the pose. Release by bringing one foot down at a time and rest in balasana, child pose for a few breaths.
