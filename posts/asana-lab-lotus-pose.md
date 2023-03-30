@@ -8,52 +8,37 @@ author: 'Matt Davies'
 author_image: 'https://randomuser.me/api/portraits/men/11.jpg'
 ---
 
-<!-- Markdow generator - https://jaspervdj.be/lorem-markdownum/ -->
+Lotus poses, Padmasana, is considered by many to be the "classic" yoga pose. Lotus is often used for meditation and pranayama practice.
+<br/>
+The Sanskrit word for this pose, "Padmasana" (pahd-MAHS-uh-nuh), is named after the lotus flower, or "padma." In the absolute expression, your legs become like the petals of a lotus flower, gently dropping open.
 
-Lorem [markdownum](http://insunt.org/inpositaque), et sanguine rutilos dixit
-nigro cornu genus duris linguae. Super hic deus ego adveniens nullumque Venerem
-equis aurem aliisque celare densis dextramque similis **post**: mihi rexerat;
-bis.
+## Benefits
 
-1. Scinditur annos
-2. Talia verba
-3. Habet delata villis domui
-4. Geminum viscere deum et utque
+- Better concentration
+- Increases Hemoglobin Count In Blood
+- Regulating blood pressure
+- Reducing menstrual aches, gastrointestinal issues, and other discomforts
+- Relaxing the mind and keeping you grounded
+- Reducing tension in the muscles
 
-## Magnorum nulla avertit pedem neque monimenta terram
+## How To Get There:
 
-Quo numquam, nunc [concussaque](http://mox-cunctos.net/), hora effugit mihi,
-pectore. Hinc fausto, circumspicit cadas; virilibus rapui, timidum rorat cuique
-animorum ac! Quem sit. Venit qui, rex sibi tota, peto _fortis ira suis_ dolusque
-simulatque [incipit crudelesque
-pavens](http://www.corpora.com/terrae-oscula.html) spatiosa conlegit oscula
-equam.
+**Step 1:** From a seated cross-legged position, ground the hips. Inhale and lengthen through the spine.
 
-## Mensis idem
+**Step 2:** As you exhale, bring the right leg as far out to the right as possible, and close the knee by bringing the thigh and calf together.
 
-Caelestia Ganymedes gentis. Veni inpellit publica tecta bellaque mortali loca
-_mea gente_ qui Enipeus iramque et hoc. _Altera Rex vetitum_; hoc magis dolores
-precor nec. Ubi verba, et aras regia, cognoscere vites tempusque expers, heros?
+**Step 3:** Flex your foot and bring the outside of the right foot to rest in the inner left groin as you inhale. Ensure the rotation comes from the hip and not the knee joint.
 
-## Mihi puto pallorem
+**Step 4:** Now pick up the left leg. Pivot the leg from the hip and slide the left leg over the right with your left foot into the right groin.
 
-Hac forma, habeo quam et patria, ille tulit volat quamquam vulnus, aere est.
-Ignis sequerere membra Pirithoo: caruerunt saevumque, sumus, ignesque poterit
-intus de fonte.
+**Step 5:** Now pick up the left leg. Pivot the leg from the hip and slide the left leg over the right with your left foot into the right groin.
 
-## Quondam montibus tua spes consilioque nata consilioque
+**Step 6:** Draw the knees as close together as is comfortable.
 
-Abigitque limite. Ipsa levis extulit munera, litora, ira pavet in morte, **te
-in** quas [vix](http://auxiliumquefando.net/vocibus-cum). Mitis tinxit, modus
-promissa **ne volucris** simul genetrixque Iovis in deae modo **in** des.
-_Memini isto hostilia_ Aeneas, in ponto **nova eventu cetera** iugum animam
-ille, viro, nec. Loquendi aves insisto saecula premente nec, at ego poscit ubi
-sub!
+**Step 7:** Bring the backs of the hands to the knees with your fingers in Jnana mudra – thumbs and first fingers touching.
 
-- Tristis natorum ora talia patriis famae naidas
-- Deus scilicet male miliaque noctisque invenio Nilum
-- Efficerentque devexaque foret haec leve ab fertilis
+**Step 8:** Keep the spine long. Your Drishti (focus point) is on the floor ahead of you.
 
-Institerat quantum facies parientem, crepitantis nondum. Atque atris arcebat
-factis nil Lucina mori sinu est partibus specie, imo interea tellus luctu
-inmunitamque genus Amphitryoniaden?
+**Step 9:** Stay in the pose for ten breaths or longer.
+
+**Step 10:** Come out of the pose the reverse way you came in by carefully uncrossing one leg and then the next. Repeat, starting with the left foot.
