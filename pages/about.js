@@ -38,7 +38,7 @@ export default function AboutPage() {
             alt=""
             height={300}
             width={450}
-            src="/../public/images/about.png"
+            src="/images/about.png"
             object-cover
           />
         </div>
