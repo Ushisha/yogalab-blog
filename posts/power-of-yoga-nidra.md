@@ -10,48 +10,28 @@ author_image: 'https://randomuser.me/api/portraits/men/18.jpg'
 
 <!-- Markdow generator - https://jaspervdj.be/lorem-markdownum/ -->
 
-Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
-haec praepes [partes epulae](http://cui.com/), in egisse de. Caecisque ter
-manus. Munere in exhalat, ferre sed [habe quaeque saepe](http://ne.org/fretum)
-verba caput ferarum _nubila_? Patriam Cyparisse tamen, **saxum** fide postponere
-pavida ne omnes etiam, atque. Sonuit omina sed sine haerebat illic fit a mora
-in.
+Yoga Nidra is a form of guided meditation also known as “yogic sleep”. It’s usually practiced lying down with a teacher guiding the session. The practice draws our attention inwards, and we learn to surf between the states of wakefulness and sleep, where our body finds its natural state of equilibrium (homeostasis) – the breath balances and becomes quiet, unconscious and conscious aspects of the mind reveal themselves, and we fall into an innate state of deep, blissful awareness.
 
-1. Serrae enim Etruscam aquis
-2. Et premis et flumine frontem minatur oppressos
-3. Inquam rector Icarus possum vim tumulo propiusque
-4. Vulnus se Latreus
-5. Aptumque bis
+## Benefits
 
-## Turpius Aegides membris colat volentes fallere
+- Release tension and pain
+- connect with yourself
+- improve your sleep and reduce insomnia
+- detach from your thoughts
 
-Ille fida formosus, et addunt viscera perdidit ad pondere quia tellus
-consequitur et quoque scinditque in. Ratis laborum instabat quaedam partem
-Phoebus, manus _partibus poenas_. Sola armos adhuc; chaos agit ora manifesta
-procul fugitque corpora iugales!
+## How to Practice:
 
-## O contra diu
+**Step 1:** You can lie flat on your back on a yoga mat or a blanket with a bolster or pillow supporting your lower back, spine and your head. Make yourself comfotable as much as possible. You can even put a blanket or pillow under your knees and elbows.
 
-Descendit _auras cum misi_ contactu tenax lacus, **quaerensque invitum
-premuntur** patria. Puris ille pictis spiritus placent vestigia et noctis
-sceleratos laudis egere retroque. Patrem contenta magni margine satis inprudens
-nymphae invito verba saepe: genus sed numinis pugnat meum iterumque attonitas
-rursus utve. Constituit praestet liceat opprobria Medusae huius, excutiuntque
-nam nil, pariter.
+**Step 2:** Set intention and affirmation. Repeat these words 3 times in your head, "I will remain still during the instruction"
 
-Coma **laudes manet** ausus hortaturque matrisque Veneris proximus tu iamque
-aptius claudit. Tmolus tetigere iussos animumque quid poplite Hippotaden? Quod
-sibi Spartana sidera, lupum Nereusque quoque ramum, vertuntur Peleus Amuli
-oscula: tamen. Surgere Epidaurius movit crede soceri Euboicam quoque.
+**Step 3:** Scan your body. During a body scan, you’ll be asked to focus on certain parts or sensations throughout the body. The goal of this is to help reduce tension so you can relax.
 
-Unde stabant, acuta, percussit denique; hoc illic et herbis minimas parvum? Quid
-_gemino profectus et_ dici postquam tot; aquarum quod relanguit est si
-quodcumque. Ossaque protinus, quod somno est, repetit, hoc passu est. Qui devia;
-respice humum vobis oscula, in Lotis nymphae.
+**Step 4:** Become a Witness. Similar to step six, you want to observe your thoughts in the moment without judging or trying to block them out. Should any negative thoughts about yourself surface, think about the positive side of things to ease tension.
 
-Dolet certamina velle dexteriore mutatus saepe, tellure ubi unguibus, gestu.
-Illis cuius finem Sirenes adsueta stridore, pictas quo edidit, nec utque et
-capillos ego rapi Bootes, sculpsit. Protinus sibi denique sibi primum Acheloides
-ante exspectant gaudeat Calydonius cernit, duxit pariterque dolet epulis? Nostri
-visae nisi aeripedes stant quem saepibus cannis protectus candens praestet:
-porrigar **patriam** Alcmene: attonitas.
+**Step 5:** Observe your “self.” Be aware of your personality and how you might be feeling. In other words, your sense of “I-ness.” Then, consider yourself an observing witness. This will help you wake up more aware and in tune with your feelings.
+
+**Step 6:** Reflect on your practice. When you finish, think about how you feel and what you were able to tap into during your session. Then, think about how you can bring the peace or joy you might be feeling into daily life whether times are good or bad. Don’t rush out of your practice. Take a few minutes to transition back into the waking state of life.
+<br/>
+<br/>
+Like with most things, don’t give up if you struggle with your first session. Quieting your mind and not doing anything is much harder than you think. So give yoga nidra a few tries. You’ll get the hang of it in no time — especially when your mind and body need time to rest and recover.
