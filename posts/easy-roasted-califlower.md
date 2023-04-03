@@ -1,7 +1,7 @@
 ---
 title: "Vagan Lab: Easy roasted cauliflower"
-date: "4 September, 2022"
-excerpt: "This quick and healthy recipe for roasted cauliflower with garlic and bay seasoning is perfect for salads and side dishes.
+date: "4 December, 2022"
+excerpt: "This quick and healthy recipe for roasted cauliflower with pomegranate and coriander seasoning is perfect for salads and veggie main.
 
 "
 cover_image: "/images/posts/img1.jpg"
@@ -10,52 +10,34 @@ author: "Matt Davies"
 author_image: "https://randomuser.me/api/portraits/men/11.jpg"
 ---
 
-<!-- Markdow generator - https://jaspervdj.be/lorem-markdownum/ -->
+Cauliflower is always best served cooked rather than raw; my favourite is roasted cauliflower. I usually roast it with olive oil, salt, pepper, garlic and lemon juice. With festive pomegranate jewels, it's a great veggie main.
 
-Lorem [markdownum](http://insunt.org/inpositaque), et sanguine rutilos dixit
-nigro cornu genus duris linguae. Super hic deus ego adveniens nullumque Venerem
-equis aurem aliisque celare densis dextramque similis **post**: mihi rexerat;
-bis.
+## Ingredients:
 
-1. Scinditur annos
-2. Talia verba
-3. Habet delata villis domui
-4. Geminum viscere deum et utque
+-1 large head cauliflower, core removed and broken into small to medium size
 
-## Magnorum nulla avertit pedem neque monimenta terram
+-1/2 clove of garlic, chopped
 
-Quo numquam, nunc [concussaque](http://mox-cunctos.net/), hora effugit mihi,
-pectore. Hinc fausto, circumspicit cadas; virilibus rapui, timidum rorat cuique
-animorum ac! Quem sit. Venit qui, rex sibi tota, peto _fortis ira suis_ dolusque
-simulatque [incipit crudelesque
-pavens](http://www.corpora.com/terrae-oscula.html) spatiosa conlegit oscula
-equam.
+-1/4 cup and 2 tablespoons olive oil
 
-## Mensis idem
+-1/2 teaspoon Himalayan salt
 
-Caelestia Ganymedes gentis. Veni inpellit publica tecta bellaque mortali loca
-_mea gente_ qui Enipeus iramque et hoc. _Altera Rex vetitum_; hoc magis dolores
-precor nec. Ubi verba, et aras regia, cognoscere vites tempusque expers, heros?
+-2 scallions, chopped
 
-## Mihi puto pallorem
+-Juice from 1/2 a lemon
 
-Hac forma, habeo quam et patria, ille tulit volat quamquam vulnus, aere est.
-Ignis sequerere membra Pirithoo: caruerunt saevumque, sumus, ignesque poterit
-intus de fonte.
+-1 teaspoon Dijon mustard
 
-## Quondam montibus tua spes consilioque nata consilioque
+-Arils from 1/4 - 1/2 a pomegranate
 
-Abigitque limite. Ipsa levis extulit munera, litora, ira pavet in morte, **te
-in** quas [vix](http://auxiliumquefando.net/vocibus-cum). Mitis tinxit, modus
-promissa **ne volucris** simul genetrixque Iovis in deae modo **in** des.
-_Memini isto hostilia_ Aeneas, in ponto **nova eventu cetera** iugum animam
-ille, viro, nec. Loquendi aves insisto saecula premente nec, at ego poscit ubi
-sub!
+-1/4 cup pine nuts, toasted
 
-- Tristis natorum ora talia patriis famae naidas
-- Deus scilicet male miliaque noctisque invenio Nilum
-- Efficerentque devexaque foret haec leve ab fertilis
+-1 tablespoon coriander, chopped
 
-Institerat quantum facies parientem, crepitantis nondum. Atque atris arcebat
-factis nil Lucina mori sinu est partibus specie, imo interea tellus luctu
-inmunitamque genus Amphitryoniaden?
+## How To Cook:
+
+**Step 1** Preheat oven to 425F.
+
+**Step 2** Combine cauliflower, garlic, ¼ cup olive oil, and Himalayan salt in a large bowl. Toss to coat. Transfer vegetables to a baking sheet, single layer, and roast for 20-25 minutes, until cauliflower starts to brown. Once the vegetables are done, transfer them to a bowl and stir with scallions.
+
+**Step 3** Whisk together two tablespoons of olive oil, lemon juice, and Dijon mustard. Pour over vegetables and toss to coat. Arrange vegetables on a platter. Top with pomegranate arils, pine nuts, and coriander. Serve warm.
