@@ -36,7 +36,7 @@ Cauliflower is always best served cooked rather than raw; my favourite is roaste
 
 ## How To Cook:
 
-**Step 1** Preheat oven to 425F.
+**Step 1** Preheat oven to 200C.
 
 **Step 2** Combine cauliflower, garlic, ¼ cup olive oil, and Himalayan salt in a large bowl. Toss to coat. Transfer vegetables to a baking sheet, single layer, and roast for 20-25 minutes, until cauliflower starts to brown. Once the vegetables are done, transfer them to a bowl and stir with scallions.
 
