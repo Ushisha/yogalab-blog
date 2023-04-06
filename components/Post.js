@@ -1,6 +1,6 @@
-import Link from "next/link";
-import Image from "next/image";
-import CategoryLabel from "./CategoryLabel";
+import Link from 'next/link'
+import Image from 'next/image'
+import CategoryLabel from './CategoryLabel'
 
 export default function Post({ post, compact }) {
   return (
@@ -32,7 +32,7 @@ export default function Post({ post, compact }) {
           <Link href={`/blog/${post.slug}`}>
             <a className="text-gray-400 hover:text-yellow-500">Read More</a>
           </Link>
-          <div className="flex items-center">
+          {/* <div className="flex items-center">
             <img
               src={post.frontmatter.author_image}
               alt="author image"
@@ -41,9 +41,9 @@ export default function Post({ post, compact }) {
             <h3 className="text-gray-700 font-bold">
               {post.frontmatter.author}
             </h3>
-          </div>
+          </div> */}
         </div>
       )}
     </div>
-  );
+  )
 }
