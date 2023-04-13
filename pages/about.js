@@ -17,9 +17,9 @@ export default function AboutPage() {
           Ikuko started her Yoga journey in 2013 at Triyoga Studios in London,
           practising Vinyasa, Ashtanga and Iyengar under the guidance of
           different yoga instructors. In 2014, she went to New York to accompany
-          her friend's teacher training trip and visited Dharma Yoga Center in
-          New York. She took her first class with Sri Dharma Mittra and started
-          her new life the same day. She found her Guru, found Yoga.
+          her friend's teacher training trip and visited Dharma Yoga Center New
+          York. She took her first class with Sri Dharma Mittra and started her
+          new life the same day; she found her Guru found Yoga.
           <br />
           <br />
           She is passionate about the philosophy of Yoga and the yogic way of
