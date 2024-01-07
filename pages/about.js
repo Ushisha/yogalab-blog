@@ -14,26 +14,39 @@ export default function AboutPage() {
           How it started...
         </h3>
         <p className="text-center md:text-left mb-3">
-          Ikuko started her Yoga journey in 2013 at Triyoga Studios in London,
-          practising Vinyasa, Ashtanga and Iyengar under the guidance of
-          different yoga instructors. In 2014, she went to New York to accompany
-          her friend's teacher training trip and visited Dharma Yoga Center New
-          York. She took her first class with Sri Dharma Mittra and started her
-          new life the same day; she found her Guru found Yoga.
+          Ikuko's journey into the world of Yoga is a captivating and
+          transformative tale. Her initiation at Indaba Studios in London in
+          2013 marked the beginning of a profound exploration of various yoga
+          styles, including Vinyasa, Ashtanga, and Iyengar. The diversity of
+          instructors she encountered during this time undoubtedly enriched her
+          practice and laid the foundation for her spiritual journey.
           <br />
           <br />
-          She is passionate about the philosophy of Yoga and the yogic way of
-          life. She loves sharing the central teachings of the philosophy and
-          wisdom she has learnt.
+          The pivotal moment in Ikuko's Yoga odyssey occurred in 2014 when she
+          ventured to New York to support her friend's teacher training trip.
+          Visiting Dharma Yoga Center New York proved to be a life-changing
+          experience, as she took her first class with the renowned Sri Dharma
+          Mittra. This encounter sparked a new chapter in her life, leading her
+          to discover her Guru and fully embrace the transformative power of
+          Yoga.
           <br />
           <br />
-          She is reminded every day of the power of Yoga; Yoga helps her remain
-          strong, builds more strength, and brings peace to her mind despite our
-          busy lives off the mat.
+          Passion for the philosophy of Yoga and the yogic way of life has
+          become a driving force in Ikuko's journey. Her commitment to sharing
+          the central teachings and wisdom she has accumulated is a testament to
+          her dedication to the practice. Through her blog, she aims to
+          communicate her findings and kindle the flame of her passion for Yoga
+          in the hearts of readers.
           <br />
           <br />
-          This blog is about her findings and passion for Yoga she wants to
-          share with the world.
+          Ikuko's daily reflections underscore the profound impact of Yoga on
+          her life. Despite the hectic nature of our lives beyond the yoga mat,
+          she finds strength, builds resilience, and cultivates inner peace
+          through her consistent practice. This blog serves as a platform for
+          Ikuko to articulate her personal experiences, insights, and the
+          invaluable lessons she has gained on her Yoga journey.
+          <br />
+          <br />
         </p>
         <div className="text-center mt-6">
           <Image
@@ -45,10 +58,10 @@ export default function AboutPage() {
           />
         </div>
 
-        <p className="text-center md:text-left font-bold">
-          Created with Next.js
+        <p className="text-center text-gray-400 md:text-left font-bold">
+          @ Regent Park, London
           <br />
-          Version 1.1.0
+          Created with Next.js Version 1.1.0
         </p>
       </div>
     </Layout>

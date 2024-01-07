@@ -1,6 +1,6 @@
 ---
 title: 'Asana Lab: Headstand'
-date: '19 February, 2023'
+date: '19 November, 2023'
 excerpt: 'Sirsasana, or Headstand, is known as the “King of Postures” and has miraculous benefits.'
 cover_image: '/images/posts/img5.jpg'
 category: 'Asana'

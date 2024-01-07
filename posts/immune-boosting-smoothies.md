@@ -1,6 +1,6 @@
 ---
 title: 'Immune-boosting Smoothies for Summer'
-date: '7 July, 2022'
+date: '7 July, 2023'
 excerpt: 'It’s so, so important that we keep our bodies in good shape. Among many other things, that means getting a wide range of vitamins and minerals.'
 cover_image: '/images/posts/img4.jpg'
 category: 'Recipe'

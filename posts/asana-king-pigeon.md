@@ -1,6 +1,6 @@
 ---
 title: 'Asana Lab: King Pigeon pose'
-date: '25 August, 2022'
+date: '25 September, 2023'
 excerpt: 'King Pigeon pose is quite an advanced posture that improves both strength and flexibility in nearly the entire body.'
 cover_image: '/images/posts/img3.jpg'
 category: 'Asana'

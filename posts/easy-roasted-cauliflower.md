@@ -1,6 +1,6 @@
 ---
 title: "Vagan Lab: Easy roasted cauliflower"
-date: "4 December, 2022"
+date: "4 August, 2023"
 excerpt: "This quick and healthy recipe for roasted cauliflower with pomegranate and coriander seasoning is perfect for salads and veggie main.
 
 "
