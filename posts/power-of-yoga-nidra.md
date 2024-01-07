@@ -50,7 +50,7 @@ Close your eyes and take a few deep breaths to settle into the present moment.
 - **Step 2: Intention Setting**
 
 Set a positive and concise statement of intent. This serves as a seed planted in the subconscious mind, influencing positive changes in one's life.
-And Repeat these words 3 times in your head, "I will remain still during the instruction."
+And Repeat these words 3 times in your head, "I will remain alert during the practice."
 
 - **Step 3: Body Scan**
 
