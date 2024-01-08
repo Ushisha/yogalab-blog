@@ -5,7 +5,7 @@ export default function AboutPage() {
   return (
     <Layout title="About YogaLab">
       <h1 className="text-center md:text-left text-4xl border-b-4 pb-5 font-bold">
-        About
+        Beneath the Om: Ikuko's Journey through Yoga
       </h1>
       {/* bg-white */}
 
@@ -14,12 +14,12 @@ export default function AboutPage() {
           How it started...
         </h3>
         <p className="text-center md:text-left mb-3">
-          Ikuko's journey into the world of Yoga is a captivating and
-          transformative tale. Her initiation at Indaba Studios in London in
-          2013 marked the beginning of a profound exploration of various yoga
-          styles, including Vinyasa, Ashtanga, and Iyengar. The diversity of
-          instructors she encountered during this time undoubtedly enriched her
-          practice and laid the foundation for her spiritual journey.
+          Born in Japan, Ikuko embarked on her yoga journey at a yoga studio in
+          London in 2013 while she was working as a freelance photographer. This
+          marked the beginning of a profound exploration of various yoga styles,
+          including Vinyasa, Ashtanga, and Iyengar. The diversity of instructors
+          she encountered during this time undoubtedly enriched her practice and
+          laid the foundation for her spiritual journey.
           <br />
           <br />
           The pivotal moment in Ikuko's Yoga odyssey occurred in 2014 when she
@@ -39,14 +39,9 @@ export default function AboutPage() {
           in the hearts of readers.
           <br />
           <br />
-          Ikuko's daily reflections underscore the profound impact of Yoga on
-          her life. Despite the hectic nature of our lives beyond the yoga mat,
-          she finds strength, builds resilience, and cultivates inner peace
-          through her consistent practice. This blog serves as a platform for
-          Ikuko to articulate her personal experiences, insights, and the
-          invaluable lessons she has gained on her Yoga journey.
-          <br />
-          <br />
+          Outside of her yoga practice, she finds joy in cleaning and organizing
+          her space, discovering new hiking trails, and experimenting with
+          plant-based recipes in the kitchen.
         </p>
         <div className="text-center mt-6">
           <Image
@@ -59,9 +54,9 @@ export default function AboutPage() {
         </div>
 
         <p className="text-center text-gray-400 md:text-left font-bold">
-          @ Regent Park, London
+          Regent Park, London
           <br />
-          Created with Next.js Version 1.1.0
+          &copy; Ikuko Sawamoto 2024, Created with Next.js Version 1.1.0
         </p>
       </div>
     </Layout>
