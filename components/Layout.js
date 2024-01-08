@@ -1,6 +1,6 @@
-import Head from "next/head";
-import Header from "./Header";
-import Search from "./Search";
+import Head from 'next/head'
+import Header from './Header'
+import Search from './Search'
 
 export default function Layout({ title, keywords, description, children }) {
   return (
@@ -34,11 +34,11 @@ export default function Layout({ title, keywords, description, children }) {
       <Search />
       <main className="container mx-auto my-7">{children}</main>
     </div>
-  );
+  )
 }
 
 Layout.defaultProps = {
-  title: "Welcome to YogaLab",
-  keywords: "yoga,vegan recipes,mindfulness",
-  description: "the best info and useful tips of yoga and vegan lifestyle",
-};
+  title: 'Welcome to OmLab',
+  keywords: 'yoga,vegan recipes,mindfulness, asana',
+  description: 'The best practice and useful tips of yoga and vegan lifestyle',
+}
