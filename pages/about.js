@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 export default function AboutPage() {
   return (
-    <Layout title="About YogaLab">
+    <Layout title="About Me">
       <h1 className="text-center md:text-left text-4xl border-b-4 pb-5 font-bold">
         Beneath the Om: Ikuko's Journey through Yoga
       </h1>
