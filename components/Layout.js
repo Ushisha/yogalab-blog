@@ -31,7 +31,7 @@ export default function Layout({ title, keywords, description, children }) {
         <meta name="theme-color" content="#ffffff" />
       </Head>
       <Header />
-      <Search />
+      {/* <Search /> */}
       <main className="container mx-auto my-7">{children}</main>
     </div>
   )

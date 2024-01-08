@@ -1,24 +1,25 @@
-import { useState, useEffect } from "react";
-import { FaSearch } from "react-icons/fa";
-import SearchResults from "./SearchResults";
+import { useState, useEffect } from 'react'
+import { FaSearch } from 'react-icons/fa'
+import SearchResults from './SearchResults'
 
 export default function Search() {
-  const [searchTerm, setSearchTerm] = useState("");
-  const [searchResults, setSearchResults] = useState([]);
+  const [searchTerm, setSearchTerm] = useState('')
+  const [searchResults, setSearchResults] = useState([])
 
   useEffect(() => {
     const getResults = async () => {
-      if (searchTerm === "") {
-        setSearchResults([]);
+      if (searchTerm === '') {
+        setSearchResults([])
       } else {
-        const res = await fetch(`/api/search?q=${searchTerm}`);
-        const { results } = await res.json();
-        setSearchResults(results);
+        const res = await fetch(`/api/search?q=${searchTerm}`)
+        const { results } = await res.json()
+        console.log(results)
+        setSearchResults(results)
       }
-    };
+    }
 
-    getResults();
-  }, [searchTerm]);
+    getResults()
+  }, [searchTerm])
 
   return (
     <div className="relative p-4">
@@ -42,5 +43,5 @@ export default function Search() {
       </div>
       <SearchResults results={searchResults} />
     </div>
-  );
+  )
 }
